@@ -20,4 +20,5 @@ requirements:
 
 about:
   license: BSD-3-Clause
+  license_family: BSD
   summary: Powershell shortcut creator for Windows (using menuinst)
